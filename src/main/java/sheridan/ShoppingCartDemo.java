@@ -24,7 +24,12 @@ public class ShoppingCartDemo {
         cart.payCart();
             // set debit service and pay
         cart.setPaymentService( debitService );    
-        cart.payCart();        
+        cart.payCart();  
+        
+        System.out.println("markedprice= "+markedprice);
+ 
+	System.out.println("discount rate="+dis);
+        System.out.println("amount after discount="+amount);
         
     } 
     
