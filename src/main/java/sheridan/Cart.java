@@ -34,4 +34,8 @@ public class Cart {
        }
         service.processPayment( total );
     }
+    
+    public int getCartSize() {
+        return cartSize;
+    }
 }
