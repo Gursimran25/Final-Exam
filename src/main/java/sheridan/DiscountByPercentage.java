@@ -14,8 +14,7 @@ java.util.Scanner;
  
 public class DiscountByPercentage
 {
-	public static void main(String args[])
-	{
+
  
 	double  dis,amount,markedprice,s;
 	
@@ -36,6 +35,6 @@ public class DiscountByPercentage
 	System.out.println("amount after discount="+amount);
  
 	}
-}
+
 
 
