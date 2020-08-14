@@ -12,8 +12,7 @@ package sheridan;
  */
    public class Discount
 {
-	public static void main(String args[])
-	{
+	
  
 	double  dis,amount,markedprice,s;
                
@@ -32,6 +31,6 @@ package sheridan;
 	System.out.println("amount after discount="+amount);
  
 	}
-}
+
 
 
