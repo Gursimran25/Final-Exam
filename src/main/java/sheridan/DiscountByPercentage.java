@@ -10,8 +10,10 @@ package sheridan;
  *
  * @author User
  */
-java.util.Scanner;
  
+import java.util.Scanner;
+import static sheridan.Factory.amount;
+
 public class DiscountByPercentage
 {
 
